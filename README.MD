@@ -38,7 +38,7 @@ Welcome to the **FNBubbles420Org Music Player**, the ultimate music player for y
 1. Open the app and grant storage permissions.
 2. The app will automatically scan your device for `.mp3` and `.mp4` files.
 3. Select a track from the displayed list to start playback.
-4. Use the Play, Pause, and Stop buttons to control your music.
+4. Use the `Play`, `Pause`, and `Stop` buttons to control your music.
 
 ---
 
