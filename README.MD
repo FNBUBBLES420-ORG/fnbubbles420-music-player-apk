@@ -57,8 +57,10 @@ Welcome to the **FNBubbles420Org Music Player**, the ultimate music player for y
 
 ---
 
-## 📝 License
-This software is proprietary and licensed to **FNBubbles420Org**. Unauthorized distribution, modification, or copying is strictly prohibited. Refer to the [LICENSE](LICENSE.txt) file for details.
+# LICENSE
+## ***This project is proprietary and all rights are reserved by the author.***
+## ***Unauthorized copying, distribution, or modification of this project is strictly prohibited.***
+## ***Unless You have written permission from the Developer or the FNBUBBLES420 ORG.***
 
 ---
 
