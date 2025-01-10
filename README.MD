@@ -69,5 +69,7 @@ Need help or have feedback? Reach out to us:
 - Email: **support@fnbubbles420.org**
 - Website: **[https://www.fnbubbles420.org](https://www.fnbubbles420.org)**
 - Discord: **[https://discord.fnbubbles420.org/invite](https://discord.fnbubbles420.org/invite)
-Thank you for using the **FNBubbles420Org Music Player**! 🎶
 
+---
+---
+# Thank you for using the **FNBubbles420Org Music Player**! 🎶
